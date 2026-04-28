@@ -1,1 +1,0 @@
-Pasta para gerar graficos
